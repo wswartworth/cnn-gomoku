@@ -1,3 +1,4 @@
 To run:
 
 python runGomoku.py <board size> <search depth> <player (1 or 2)>
+
